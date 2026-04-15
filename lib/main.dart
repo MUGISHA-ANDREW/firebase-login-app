@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:firebaseapp/screens/dashboard_screen.dart';
 import 'package:firebaseapp/screens/login_screen.dart';
 import 'package:firebaseapp/screens/register_screen.dart';
-import 'package:firebase_auth/firebase_auth.dart';
+
 
 void main() {
   runApp(const MyApp());
